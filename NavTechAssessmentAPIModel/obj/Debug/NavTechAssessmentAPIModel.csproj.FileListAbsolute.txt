@@ -1,0 +1,4 @@
+D:\VAMSHI\NavTech\APILatest\NavTechAssessmentAPI\NavTechAssessmentAPIModel\bin\Debug\NavTechAssessmentAPIModel.dll
+D:\VAMSHI\NavTech\APILatest\NavTechAssessmentAPI\NavTechAssessmentAPIModel\bin\Debug\NavTechAssessmentAPIModel.pdb
+D:\VAMSHI\NavTech\APILatest\NavTechAssessmentAPI\NavTechAssessmentAPIModel\obj\Debug\NavTechAssessmentAPIModel.dll
+D:\VAMSHI\NavTech\APILatest\NavTechAssessmentAPI\NavTechAssessmentAPIModel\obj\Debug\NavTechAssessmentAPIModel.pdb
